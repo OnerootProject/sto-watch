@@ -1,0 +1,9 @@
+{
+  "CreateSTG": "0xcc88d7c76e0f1ba3e732a49d210e7af6841d7de88b85e9363304fea5a254ec23",
+  "CreateSTO": "0x07bef8859fa875dc0043ef2624ba09c2bc35b7782c1f5eedb362b3cb38f0fc93",
+  "ModifyWhitelist": "0x470b2da8ce108716374df2bca80ab2136e62432634b20d62a600692daec87e5a",
+  "RegistryPolicy": "0xe96ccc903c4ef80318825deae36e4a9da57aae208f2ea1cadda10c3416ed6c71",
+  "Mint": "0xede3d8a7a338df19b921b7b9410e29892d22880fa7d9730c8bf4f44fca9c38ce",
+  "Buy": "0x1cbc5ab135991bd2b6a4b034a04aa2aa086dac1371cb9b16b8b5e2ed6b036bed"
+}
+

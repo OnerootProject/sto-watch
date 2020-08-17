@@ -1,0 +1,55 @@
+{
+  "name": "oneroot-sto-watch",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Oneroot team",
+  "license": "MIT",
+  "scripts": {
+    "start": "node bin/www",
+    "dev": "./node_modules/.bin/nodemon bin/www",
+    "prd": "pm2 start bin/www"
+  },
+  "keywords": [
+    "smart",
+    "contracts",
+    "solidity",
+    "token",
+    "securityToken",
+    "ERC20",
+    "ERC777",
+    "ERC1410",
+    "STO"
+  ],
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  },
+  "dependencies": {
+    "bignumber.js": "latest",
+    "debug": "^2.6.3",
+    "ejs": "^2.6.1",
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-util": "^6.0.0",
+    "ethers": "^4.0.7",
+    "fs": "latest",
+    "ioredis": "^4.2.0",
+    "koa": "^2.2.0",
+    "koa-bodyparser": "^3.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^2.0.1",
+    "koa-onerror": "^1.2.1",
+    "koa-router": "^7.1.1",
+    "koa-static": "^3.0.0",
+    "koa-views": "^5.2.1",
+    "log4js": "^3.0.6",
+    "mongodb": "^3.1.10",
+    "path": "latest",
+    "readline-sync": "^1.4.9",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "shelljs": "^0.8.2",
+    "web3": "^0.20.6"
+  }
+}
